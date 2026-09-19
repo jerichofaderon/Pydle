@@ -1,8 +1,5 @@
 # Pydle
 
-### What is Pydle?
----
-
 Pydle is a programming puzzle game where you write Python code to fill in a grid with coloured cells. Your goal is to recreate a specific pattern by using the provided pydle(x, y, char, colour) function.
 
 Pydle was inspired by the popular game Wordle, but with a programming twist! In Pydle, your goal is to recreate a grid pattern by writing Python code.
