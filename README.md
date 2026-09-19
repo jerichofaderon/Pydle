@@ -12,3 +12,5 @@ You can make multiple attempts to solve the puzzle, and your progress will be sa
 
 ---
 ### Purpose of this repository:
+
+This repository contains my answers for the daily Pydle from pydle.net.
