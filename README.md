@@ -13,7 +13,7 @@ You can make multiple attempts to solve the puzzle, and your progress will be sa
 ---
 ### Purpose of this repository:
 
-This repository contains my answers for the daily Pydle from pydle.net.
+This repository contains my answers for the daily pydle from [pydle.net](https://pydle.net/).
 
 The repository is organized by day ranges, then by individual day. Each folder follows the `NUM - DrawingName` format and the script uses the submitter's pseudo, for example `Jericho.py`.
 
