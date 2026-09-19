@@ -1,5 +1,5 @@
 # Pydle
-Solutions for Pydle
+What is Pydle?
 
 Pydle is a programming puzzle game where you write Python code to fill in a grid with coloured cells. Your goal is to recreate a specific pattern by using the provided pydle(x, y, char, colour) function.
 
@@ -10,3 +10,6 @@ Each day, a new puzzle is available for you to solve. You can write code to fill
 After writing your code, run it to see the output on the grid. The console will display any output or errors from your code execution. Depending on your difficulty settings, you may be limited in the number of characters you can use in your code, so plan your solution carefully!
 
 You can make multiple attempts to solve the puzzle, and your progress will be saved automatically.
+
+
+Purpose of this repository:
