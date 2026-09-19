@@ -16,3 +16,5 @@ You can make multiple attempts to solve the puzzle, and your progress will be sa
 This repository contains my answers for the daily Pydle from pydle.net.
 
 The repository is organized by day ranges, then by individual day. Each folder follows the `NUM - DrawingName` format and the script uses the submitter's pseudo, for example `Jericho.py`.
+
+Important: the `pydle` function used on the site does not exist natively in Python. Any warnings you see are therefore normal and are related to the site's custom behavior, not to a problem in this repository.
